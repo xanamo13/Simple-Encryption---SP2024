@@ -1,0 +1,8 @@
+This is a sample input file for COSC 1436
+assignment #10. Your program should encode this
+file by adding 1 through 6 to the ASCII value of each
+character in it. In your encoded file the first character should
+be 'U'. The last character of the third line should be 'k'.
+The encoded file should have the same number of lines as the input,
+but will be unreadable. The last character of the last line will
+be a '0'.
